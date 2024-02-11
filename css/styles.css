@@ -442,7 +442,17 @@ gap: 48px 24px;
     width: calc((100% - 72px) / 4);
 }
 
-
+.icon-list-prerogatives {
+    background-color: #F4F4FD;
+    width: 264px;
+    height: 112px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 4px;
+    margin-bottom: 8px;
+    border: 1px solid #8E8F99;
+}
 
 .title-image-link {
 margin-bottom: 8px;
