@@ -531,7 +531,7 @@ transform: translateY(0%);
     padding-bottom: 164px;
     transform: translateY(100%);
     
-    overlay: hidden;
+    overflow: hidden;
 
 }
 
